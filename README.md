@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>About Me</h2>
 
-<!--
-**xRolTe/xRolTe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+class RolTe {
+    constructor(options) {
+        this.name = "RolTe",
+        this.sex = "man",
+        this.length = "1.75",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "61",
+        this.age = "16"
+    };
+}
+export default RolTe
