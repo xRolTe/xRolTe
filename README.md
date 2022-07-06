@@ -1,5 +1,12 @@
 <h2>About Me</h2>
 
+<a href="https://discord.com/users/779446633489629208">
+        <img src="https://discord.c99.nl/widget/theme-3/779446633489629208.png" alt="RolTe#0001:discord-profile"/>
+    </a>
+
+
+
+
 ```js
 class RolTe {
     constructor(options) {
